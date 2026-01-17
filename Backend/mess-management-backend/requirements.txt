@@ -1,0 +1,8 @@
+Django>=4.0
+djangorestframework>=3.12
+psycopg2-binary>=2.9
+python-dotenv>=0.19
+djangorestframework-simplejwt>=5.0
+qrcode[pil]>=7.3
+Pillow>=9.0
+django-cors-headers>=3.10
